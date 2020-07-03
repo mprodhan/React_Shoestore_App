@@ -1,7 +1,8 @@
 App.js
 
 This is the frontend portion of RestApi_Shoestore repository. This React app interact with
-localhost:8000, in the fetch method of App.js.
+localhost:8000, in the fetch method of App.js. On the backend, the djang-cors-headers is installed. 
+It has also been checked for any verification, the cors headers, have also been encoded into the settings, intalled apps, middleware and the whitelist.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
